@@ -1,0 +1,35 @@
+HTML : Hypertext Markup Language
+content layer :> HTML
+présentation layer :> CSS : cascading style sheets
+behavior layer :> java script 
+
+HTML document must start with : <!DOCTYPE html>
+The HTML document hitself begins with: <html> and end with </html>
+the visible part of html document is between : <body> and </bdoy>
+a tag is closed this way : </tagname> 
+pour faire un  commentaire : 
+<!--commentaire-->
+
+All web pages have one single body element, in order to understand the tags inside the body, we will divide them into:
+
+Headings
+Text Formatting and Line Breaking Tags
+Paragraphs
+Images
+Audio and Video
+Links
+Lists
+Tables
+Buttons
+Forms and Inputs
+
+<b>bold</b> this a bold tag test
+<i>italic</i> this is a italic tag test 
+<del>deleted</d>
+<br> Breaks a line, to jump a line
+<small>small</small> 
+
+<p>My first paragraph</p>
+<p>My second paragraph</p>
+
+<h2 title="This is a subheading">Hello, World!</h2>

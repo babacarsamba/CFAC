@@ -1,0 +1,19 @@
+cours htlm2
+<h2 title="This is a subheading">Hello, World!</h2>
+
+"E:\Photos\Ma pucepuce.jpg"
+
+The < img > tag is responsible for adding images to your HTML page. Basically, the “src” attribute takes the URL of your image or its path on your computer. The “alt” attribute is your plan B if your image fails to load.
+Unlike most of the elements we have encountered thus far, the img element does not have a closing tag.
+
+<!-- Incorrect img declaration  -->
+<img src="path/to/image/dog.jpg" alt="A dog" > </img>
+<!-- Correct img declaration  -->
+<img src="path/to/image/dog.jpg" alt="A dog" >
+
+Links are defined with the < a > tag, also called anchor element.
+The “href” attribute defines the path once it’s clicked on.
+<audio controls>
+    <source src="test.mp3" type="audio/mpeg">
+        Please Check the audio Extension
+</audio>
